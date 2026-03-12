@@ -1,4 +1,4 @@
-**Customer Complaint Dashboard – Cumulus Finance**
+# Customer Complaint Dashboard – Cumulus Finance
 
 **Project Overview**
 
